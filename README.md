@@ -1,4 +1,4 @@
-# Demos-data-analytics
+# MERN Boilerplater
 A full stack website for Demos
 
 ## Run locally
