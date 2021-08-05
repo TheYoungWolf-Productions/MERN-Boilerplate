@@ -1,0 +1,13 @@
+{
+  "name": "Demos-data-analyitcs",
+  "version": "1.0.0",
+  "description": "A full stack website for Demos",
+  "main": "index.js",
+  "scripts": {"dev": "concurrently \"cd server && yarn run dev\" \"cd client && yarn start\" "},
+  "repository": "https://github.com/TheYoungWolf-Productions/Demos-data-analytics.git",
+  "author": "TheYoungWolf Productions",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^6.2.0"
+  }
+}
